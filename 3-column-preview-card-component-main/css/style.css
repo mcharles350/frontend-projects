@@ -97,12 +97,13 @@ p {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 375px) {
     .container {
         display: flex;
         flex-direction: column;
         width: auto;
         height: auto;
+        margin: 50%;
     }
 
     .card {
