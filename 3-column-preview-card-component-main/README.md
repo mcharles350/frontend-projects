@@ -21,10 +21,10 @@ This is a solution to the [Stat preview card component challenge](https://genera
 Users should be able to view the 3-column preview card for both desktop and mobile devices.
 
 #### Screenshot - Desktop
-![Desktop]()
+![Desktop](https://github.com/mcharles350/frontend-projects/blob/main/3-column-preview-card-component-main/design/desktop.png?raw=true)
 
 #### Screenshot - Mobile
-![Mobile]()
+![Mobile](https://github.com/mcharles350/frontend-projects/blob/main/3-column-preview-card-component-main/design/mobile.png?raw=true)
 
 ### Resources
 ---
